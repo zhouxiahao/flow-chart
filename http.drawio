@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-14T10:55:18.866Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="ZKOvFwqoErjP0pzygcpy" version="17.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-12T01:54:42.760Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="N5pv_vmju8jpUvik0hNS" version="20.0.1" type="github">
   <diagram id="0bQSHRujg9YkCvUWJZAw" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,55 +7,55 @@
         <mxCell id="GiKUS96F9qBPB6XzEvdl-1" value="HTTP" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="195" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="66dcFxaVkQrHTLht1TZp-1" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="66dcFxaVkQrHTLht1TZp-1" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="50" width="20" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="66dcFxaVkQrHTLht1TZp-2" value="0.9&amp;nbsp; =&amp;gt; 版本比较简单，只有一个GET请求" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
+        <mxCell id="66dcFxaVkQrHTLht1TZp-2" value="0.9&amp;nbsp; =&amp;gt; 版本比较简单，只有一个GET请求" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;" parent="1" vertex="1">
           <mxGeometry x="210" y="20" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="66dcFxaVkQrHTLht1TZp-3" value="1.0&amp;nbsp;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="66dcFxaVkQrHTLht1TZp-3" value="1.0&amp;nbsp;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="210" y="115.5" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="66dcFxaVkQrHTLht1TZp-4" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="66dcFxaVkQrHTLht1TZp-4" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="61" width="20" height="139" as="geometry" />
         </mxCell>
-        <mxCell id="66dcFxaVkQrHTLht1TZp-5" value="内容更为丰富：图文、音视频、二进制文件等" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="66dcFxaVkQrHTLht1TZp-5" value="内容更为丰富：图文、音视频、二进制文件等" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="270" y="50" width="260" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="66dcFxaVkQrHTLht1TZp-6" value="新增了POST/HEAD命令" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="66dcFxaVkQrHTLht1TZp-6" value="新增了POST/HEAD命令" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="270" y="90" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="66dcFxaVkQrHTLht1TZp-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF0000;" edge="1" parent="1" source="66dcFxaVkQrHTLht1TZp-7" target="66dcFxaVkQrHTLht1TZp-8">
+        <mxCell id="66dcFxaVkQrHTLht1TZp-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF0000;" parent="1" source="66dcFxaVkQrHTLht1TZp-7" target="66dcFxaVkQrHTLht1TZp-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="66dcFxaVkQrHTLht1TZp-7" value="请求和回应的格式改变。除了数据部分，每次通信都包含了头信息，用来描述一些元数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="66dcFxaVkQrHTLht1TZp-7" value="请求和回应的格式改变。除了数据部分，每次通信都包含了头信息，用来描述一些元数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="270" y="130" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="66dcFxaVkQrHTLht1TZp-8" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="66dcFxaVkQrHTLht1TZp-8" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="530" y="120" width="40" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="66dcFxaVkQrHTLht1TZp-10" value="&lt;span style=&quot;color: rgb(234 , 67 , 53) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;主要是描述数据属性（property）的信息，用来支持如指示存储位置、历史数据、资源查找、文件记录等功能&lt;/span&gt;&lt;span style=&quot;color: rgb(32 , 33 , 36) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;。&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="66dcFxaVkQrHTLht1TZp-10" value="&lt;span style=&quot;color: rgb(234 , 67 , 53) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;主要是描述数据属性（property）的信息，用来支持如指示存储位置、历史数据、资源查找、文件记录等功能&lt;/span&gt;&lt;span style=&quot;color: rgb(32 , 33 , 36) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;。&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="580" y="90" width="230" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="66dcFxaVkQrHTLht1TZp-12" value="其他的新增功能还包括状态码**（status code）、多字符集支持、多部分发送（multi-part type）、权限（authorization）、缓存（cache）、内容编码（content encoding）**等。" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="66dcFxaVkQrHTLht1TZp-12" value="其他的新增功能还包括状态码**（status code）、多字符集支持、多部分发送（multi-part type）、权限（authorization）、缓存（cache）、内容编码（content encoding）**等。" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="280" y="190" width="260" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="66dcFxaVkQrHTLht1TZp-13" value="1.1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="66dcFxaVkQrHTLht1TZp-13" value="1.1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="210" y="324.5" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="66dcFxaVkQrHTLht1TZp-14" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="66dcFxaVkQrHTLht1TZp-14" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="270" width="20" height="139" as="geometry" />
         </mxCell>
-        <mxCell id="66dcFxaVkQrHTLht1TZp-15" value="缓存上：新增了Entity tag, if-None-match" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="66dcFxaVkQrHTLht1TZp-15" value="缓存上：新增了Entity tag, if-None-match" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="270" y="299" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="66dcFxaVkQrHTLht1TZp-17" value="长连接： 在一个TCP连接上可以传送多个http请求和响应，默认开启C用呢抽屉哦你：keep-alive" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="66dcFxaVkQrHTLht1TZp-17" value="长连接： 在一个TCP连接上可以传送多个http请求和响应，默认开启：keep-alive" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="270" y="255" width="260" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="66dcFxaVkQrHTLht1TZp-18" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;font face=&quot;arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;1.0主要缺点是每个TCP链接只能发送一个请求。发送数据完毕，连接就关闭。TCP连接新建成本很高&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#00FF00;" vertex="1" parent="1">
+        <mxCell id="66dcFxaVkQrHTLht1TZp-18" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;font face=&quot;arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;1.0主要缺点是每个TCP链接只能发送一个请求。发送数据完毕，连接就关闭。TCP连接新建成本很高&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#00FF00;" parent="1" vertex="1">
           <mxGeometry x="850" y="90" width="230" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="66dcFxaVkQrHTLht1TZp-19" value="请求头新增host字段：因为虚拟主机的诞生，一台物理机器可以存在多个虚拟主机，并且它们共享一个IP地址。" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="66dcFxaVkQrHTLht1TZp-19" value="请求头新增host字段：因为虚拟主机的诞生，一台物理机器可以存在多个虚拟主机，并且它们共享一个IP地址。" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="270" y="350" width="300" height="30" as="geometry" />
         </mxCell>
       </root>
